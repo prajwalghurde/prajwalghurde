@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajwal Ghurde</h1>
+[![paceprajwal's GitHub | Stats](https://stats.quine.sh/paceprajwal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=paceprajwal)<h1 align="center">Hi 👋, I'm Prajwal Ghurde</h1>
 <h3 align="center">A AI Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalghurde&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalghurde" /> </p>
