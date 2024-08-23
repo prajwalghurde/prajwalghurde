@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalghurde" alt="prajwalghurde" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [tinyurl.com/pace-prajwal](tinyurl.com/pace-prajwal)
 
 - 💬 Ask me about **Technology,AI tools**
 
