@@ -10,12 +10,11 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center>
-
 - 💬 Ask me about **AI and Full-Stack Development**  
 - 📫 Reach me at **prajwalghurde320@gmail.com**  
 - ⚡ Fun fact: **I think I’m funny 😆**  
-
-  </p>
+</p>
+  
 ---
 
 
