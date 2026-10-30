@@ -26,7 +26,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="32%" align="center" valign="middle">
-      <img src="./assets/profile.svg" width="250" alt="Prajwal Ghurde" />
+      <img src="https://raw.githubusercontent.com/prajwalghurde/prajwalghurde/main/assets/profile.svg" width="250" alt="Prajwal Ghurde" />
     </td>
     <td width="68%" valign="middle">
       <p>I am a <b>Software Engineer specializing in Generative AI and full-stack development</b>, with hands-on experience building LLM, RAG, NLP, and scalable backend systems.</p>
@@ -69,7 +69,7 @@ Shipping features is one step. Keeping systems dependable over time is the large
 Not every problem lives in the same place. I map what I build to the [Cynefin](https://en.wikipedia.org/wiki/Cynefin_framework) domains — because the right approach for a known CRUD API is the wrong approach for a non-deterministic AI workflow.
 
 <p align="center">
-  <img src="./assets/cynefin.svg" width="820" alt="A Cynefin map of my work — Complex (LLM/RAG systems, multimodal retrieval, AI evaluation), Complicated (backend architecture, cloud deployments, performance optimization), Chaotic (non-deterministic model behavior, noisy real-world inputs), Clear (CRUD APIs, auth, CI/CD pipelines), and Disorder in the center." />
+  <img src="https://raw.githubusercontent.com/prajwalghurde/prajwalghurde/main/assets/cynefin.svg" width="820" alt="A Cynefin map of my work — Complex (LLM/RAG systems, multimodal retrieval, AI evaluation), Complicated (backend architecture, cloud deployments, performance optimization), Chaotic (non-deterministic model behavior, noisy real-world inputs), Clear (CRUD APIs, auth, CI/CD pipelines), and Disorder in the center." />
 </p>
 
 ---
