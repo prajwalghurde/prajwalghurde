@@ -66,7 +66,7 @@ Shipping features is one step. Keeping systems dependable over time is the large
 
 ## How I Navigate the Work
 
-Not every problem lives in the same place. I map what I build to the [Cynefin](https://en.wikipedia.org/wiki/Cynefin_framework) domains — because the right approach for a known CRUD API is the wrong approach for a non-deterministic AI workflow.
+Not every problem lives in the same place. I map what I build — because the right approach for a known CRUD API is the wrong approach for a non-deterministic AI workflow.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prajwalghurde/prajwalghurde/main/assets/cynefin.svg" width="820" alt="A Cynefin map of my work — Complex (LLM/RAG systems, multimodal retrieval, AI evaluation), Complicated (backend architecture, cloud deployments, performance optimization), Chaotic (non-deterministic model behavior, noisy real-world inputs), Clear (CRUD APIs, auth, CI/CD pipelines), and Disorder in the center." />
